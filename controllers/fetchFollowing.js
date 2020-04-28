@@ -5,7 +5,7 @@ const fetchfollowing = async (req, res, next) => {
   try {
     console.log("hq");
     let names = [];
-    let followings=[]
+    let followings = [];
     const user = await models.User.findOne({
       where: {
         userName: req.params.userName,
@@ -28,26 +28,7 @@ const fetchfollowing = async (req, res, next) => {
       followings.push(name.userName);
     }
 
-    // const followers = await models.Followers.findAll({
-    //   where: {
-    //     userId: user.id,
-    //   },
-    // });
-
-    // follower = [...JSON.parse(JSON.stringify(followers, null, 4))];
-
-    // for (var i = 0; i < follower.length; i++) {
-    //   const name = await models.User.findOne({
-    //     where: { id: follower[i].followerId },
-    //   });
-    //   console.log(name);
-    //   followers.push(name.userName);
-    // }
-
-    console.log(obj.length);
-
     res.json({
-    //   followers,
       following,
     });
   } catch (error) {

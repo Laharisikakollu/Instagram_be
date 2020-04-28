@@ -2,15 +2,9 @@
 
 module.exports = {
   up: (queryInterface, Sequelize) => {
-    return queryInterface.removeConstraint('Post_Likes', ['postId'], {
-      type: 'foreign key',
-      name: 'postId_FK_Accounts',
-      references: { //Required field
-        table: 'Posts',
-        field: 'id'
-      },
-      onDelete: 'cascade',
-      onUpdate: 'cascade'
+    return queryInterface
+    .changeColumn('Posts', 'description', {
+      type: Sequelize.TEXT
     });
   },
 

@@ -4,7 +4,7 @@ const getuserlist = async (req, res, next) => {
     try {
         
         let names=[]
-        console.log("hi")
+       
         const users = await models.User.findAll({
             attributes: ['userName'],
             where: {

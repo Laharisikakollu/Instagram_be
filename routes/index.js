@@ -1,6 +1,5 @@
 const express = require('express');
-const router = express.Router(); // initialize router
-// var multer = require('multer');
+const router = express.Router(); 
 
 const signup = require('../controllers/signup')
 const signuprequest = require('../controllers/signuprequest')
@@ -17,6 +16,8 @@ const addLike=require('../controllers/postlikes');
 const LikeCount=require('../controllers/likeCount');
 const followrequest=require('../controllers/Followrequests');
 const timeline=require('../controllers/timeline')
+const addComment=require('../controllers/addComment');
+const getComment=require('../controllers/getComment')
 
 
 
@@ -32,6 +33,7 @@ const fetchfollowing=require('../controllers/fetchFollowing');
 router.post('/signup', signup)
 router.post('/signuprequest', signuprequest)
 router.post('/login', login)
+router.post('/sendmail',sendmail)
 router.get('/getuserlist',getuserlist)
 router.get('/getrequestlist',getrequestlist)
 router.put('/acceptrequest',acceptrequest)
@@ -42,6 +44,8 @@ router.post('/deletePost',deletePost)
 router.get('/getPosts/:id', getPosts)
 router.get('/timeline/:userName',timeline)
 router.post('/addLike',addLike)
+router.post('/addComment',addComment)
+router.get('/getComment/:postId',getComment)
 
 
 

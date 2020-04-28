@@ -1,10 +1,12 @@
+require('dotenv').config()
+
 const express = require('express');
+
 const bodyParser = require('body-parser');
 
 const app = express(); // initialize an app
 const routes = require('./routes');
 const cors = require('cors');
-// var upload = multer({ dest: 'uploads/' })
 app.use(bodyParser.json()); // parse json
 
 const port = 8000;

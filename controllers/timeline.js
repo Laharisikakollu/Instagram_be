@@ -4,52 +4,45 @@ const moment = require("moment");
 
 const timeline = async (req, res, next) => {
   try {
-    console.log("")
-    const user=await models.User.findOne({
-        where:{
-            userName:req.params.userName
-        }
-    })
-    console.log("get posts");
+  
+    const user = await models.User.findOne({
+      where: {
+        userName: req.params.userName,
+      },
+    });
+  
     const following = await models.Followers.findAll({
-        where:{
-            followerId:user.id
-        }
-    })
+      where: {
+        followerId: user.id,
+      },
+    });
     followings = [...JSON.parse(JSON.stringify(following, null, 4))];
-    console.log(followings)
-    let posts=[]
+  
+    let posts = [];
     for (var i = 0; i < followings.length; i++) {
-        const post = await models.Post1.findAll({
-            //   attributes: ["id"],
-            where: {
-              userId: followings[i].userId
-            },
-          });
-         
-      
-          followerposts = [...JSON.parse(JSON.stringify(post, null, 4))];
-          console.log(followerposts)
-          followerposts.map(item=>{
-              posts.push(item)
-          })
-        }
+      const post = await models.Post1.findAll({
+        where: {
+          userId: followings[i].userId,
+        },
+      });
 
-       
+      followerposts = [...JSON.parse(JSON.stringify(post, null, 4))];
+     
+      followerposts.map((item) => {
+        posts.push(item);
+      });
+    }
 
    
-    console.log("posts1");
-        console.log(posts)
     let names = [];
     let posts1 = [];
-    
+
     for (var i = 0; i < posts.length; i++) {
       const name = await models.Images.findAll({
         where: {
           postId: posts[i].id,
         },
       });
-    
 
       imj = [...JSON.parse(JSON.stringify(name, null, 4))];
       console.log(imj[0].imageName);
@@ -59,15 +52,12 @@ const timeline = async (req, res, next) => {
         },
       });
 
-
-      for(j=0;j<imj.length;j++)
-      {
-          names.push(imj[j].imageUrl)
+      for (j = 0; j < imj.length; j++) {
+        names.push(imj[j].imageUrl);
       }
 
       imj = [];
-    //   console.log(obj[i].description);
-    //   console.log(names)
+
       posts1.push({
         images: names,
         description: posts[i].description,
@@ -75,11 +65,10 @@ const timeline = async (req, res, next) => {
         id: posts[i].id,
       });
 
-
       names = [];
     }
 
-    posts1.reverse()
+    posts1.reverse();
     res.status(200).json({
       posts1,
       success: true,
@@ -92,4 +81,3 @@ const timeline = async (req, res, next) => {
   }
 };
 module.exports = timeline;
-
