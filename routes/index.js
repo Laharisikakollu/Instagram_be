@@ -1,64 +1,57 @@
-const express = require('express');
-const router = express.Router(); 
+const express = require("express");
+const router = express.Router();
 
-const signup = require('../controllers/signup')
-const signuprequest = require('../controllers/signuprequest')
-const login = require('../controllers/login')
-const getuserlist=require('../controllers/getUserList');
-const getrequestlist=require('../controllers/getRequestList');
-const acceptrequest=require('../controllers/acceptrequest');
-const declinerequest=require('../controllers/declinerequest');
+const signup = require("../controllers/user/signup");
+const signupValidation = require("../validations/signupValidation");
+const signuprequest = require("../controllers/admin/signuprequest");
+const login = require("../controllers/user/login");
 
-const addPost=require('../controllers/addPost');
-const getPosts=require('../controllers/getPosts');
-const deletePost=require('../controllers/deletePost');
-const addLike=require('../controllers/postlikes');
-const LikeCount=require('../controllers/likeCount');
-const followrequest=require('../controllers/Followrequests');
-const timeline=require('../controllers/timeline')
-const addComment=require('../controllers/addComment');
-const getComment=require('../controllers/getComment')
+const getuserlist = require("../controllers/admin/getUserList");
+const getrequestlist = require("../controllers/admin/getRequestList");
+const acceptrequest = require("../controllers/admin/acceptrequest");
+const declinerequest = require("../controllers/admin/declinerequest");
 
+const addPost = require("../controllers/user/addPost");
+const addPostValidation = require("../validations/addPostValidation");
+const getPosts = require("../controllers/user/getPosts");
+const deletePost = require("../controllers/user/deletePost");
+const addLike = require("../controllers/user/postlikes");
+const timeline = require("../controllers/user/timeline");
+const addComment = require("../controllers/user/addComment");
+const addCommentValidation = require("../validations/addCommentValidation");
+const getComment = require("../controllers/user/getComment");
 
+const follow = require("../controllers/user/follow");
+const unfollow = require("../controllers/user/unfollow");
+const getfollowrequest = require("../controllers/user/getFollowrequest");
+const acceptfollowrequest = require("../controllers/user/acceptFollowrequest");
+const declinefollowrequest = require("../controllers/user/declineFollowrequest");
+const fetchfollowers = require("../controllers/user/fetchFollowers");
+const fetchfollowing = require("../controllers/user/fetchFollowing");
 
-const follow=require('../controllers/follow');
-const unfollow=require('../controllers/unfollow');
-const getfollowrequest=require('../controllers/getFollowrequest')
-const acceptfollowrequest=require('../controllers/acceptFollowrequest');
-const declinefollowrequest=require('../controllers/declineFollowrequest');
-const fetchfollowers=require('../controllers/fetchFollowers');
-const fetchfollowing=require('../controllers/fetchFollowing');
+router.post("/signup", signupValidation, signup);
+router.post("/signuprequest", signuprequest);
+router.post("/login", login);
 
+router.get("/getuserlist", getuserlist);
+router.get("/getrequestlist", getrequestlist);
+router.put("/acceptrequest", acceptrequest);
+router.put("/declinerequest", declinerequest);
 
-router.post('/signup', signup)
-router.post('/signuprequest', signuprequest)
-router.post('/login', login)
-router.post('/sendmail',sendmail)
-router.get('/getuserlist',getuserlist)
-router.get('/getrequestlist',getrequestlist)
-router.put('/acceptrequest',acceptrequest)
-router.put('/declinerequest',declinerequest)
+router.post("/addPost", addPostValidation, addPost);
+router.post("/deletePost", deletePost);
+router.get("/getPosts/:id", getPosts);
+router.get("/timeline/:userName", timeline);
+router.post("/addLike", addLike);
+router.post("/addComment", addCommentValidation, addComment);
+router.get("/getComment/:postId", getComment);
 
-router.post('/addPost',addPost)
-router.post('/deletePost',deletePost)
-router.get('/getPosts/:id', getPosts)
-router.get('/timeline/:userName',timeline)
-router.post('/addLike',addLike)
-router.post('/addComment',addComment)
-router.get('/getComment/:postId',getComment)
-
-
-
-router.post('/follow',follow)
-router.post('/unfollow',unfollow)
-router.get('/fetchfollowers/:userName',fetchfollowers)
-router.get('/fetchfollowing/:userName',fetchfollowing)
-router.get('/getfollowrequest/:userName',getfollowrequest)
-router.post('/acceptfollowrequest',acceptfollowrequest)
-router.post('/declinefollowrequest',declinefollowrequest)
-
-
-
+router.post("/follow", follow);
+router.post("/unfollow", unfollow);
+router.get("/fetchfollowers/:userName", fetchfollowers);
+router.get("/fetchfollowing/:userName", fetchfollowing);
+router.get("/getfollowrequest/:userName", getfollowrequest);
+router.post("/acceptfollowrequest", acceptfollowrequest);
+router.post("/declinefollowrequest", declinefollowrequest);
 
 module.exports = router;
-

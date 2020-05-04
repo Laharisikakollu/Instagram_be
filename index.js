@@ -1,7 +1,7 @@
 require('dotenv').config()
 
 const express = require('express');
-
+const logger=require('./logger');
 const bodyParser = require('body-parser');
 
 const app = express(); // initialize an app
@@ -27,8 +27,8 @@ app.use((error, req, res, next) => {
 
 app.listen(port, (error) => {
     if (error) {
-        console.log(error);
+        logger.log(error);
     } else {
-        console.log(`Server started on port ${port}`);
+        logger.log('info',`Server started on port ${port}`);
     }
 })

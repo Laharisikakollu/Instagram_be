@@ -1,0 +1,329 @@
+{"level":"info","message":"Server started on port 8000","timestamp":"2020-05-01T13:35:03.651Z"}
+{"level":"info","message":"Server started on port 8000","timestamp":"2020-05-01T13:40:10.170Z"}
+{"level":"info","message":"Server started on port 8000","timestamp":"2020-05-01T13:47:40.477Z"}
+{"level":"info","message":"Server started on port 8000","timestamp":"2020-05-01T13:48:41.546Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server started on port 8000","timestamp":"2020-05-01T13:50:33.945Z"}
+{"level":"info","message":"Server started on port 8000","timestamp":"2020-05-01T15:12:24.341Z"}
+{"level":"info","message":"Server started on port 8000","timestamp":"2020-05-01T15:13:27.666Z"}
+{"level":"info","message":"Server started on port 8000","timestamp":"2020-05-01T15:14:26.409Z"}
+{"level":"info","message":"Server started on port 8000","timestamp":"2020-05-01T15:15:44.350Z"}
+{"level":"error","timestamp":"2020-05-01T15:15:48.907Z"}
+{"level":"info","message":"Server started on port 8000","timestamp":"2020-05-02T03:10:18.952Z"}
+{"level":"info","message":"Server started on port 8000","timestamp":"2020-05-02T03:36:57.963Z"}
+{"message":"/login","level":"info","timestamp":"2020-05-02T03:37:11.020Z"}
+{"level":"error","timestamp":"2020-05-02T03:37:11.079Z"}
+{"level":"info","message":"Server started on port 8000","timestamp":"2020-05-02T03:38:51.909Z"}
+{"message":"/login","level":"info","timestamp":"2020-05-02T03:39:13.739Z"}
+{"level":"error","timestamp":"2020-05-02T03:39:14.625Z"}
+{"level":"info","message":"Server started on port 8000","timestamp":"2020-05-02T03:39:27.937Z"}
+{"message":"/login","level":"info","timestamp":"2020-05-02T03:39:38.495Z"}
+{"level":"error","timestamp":"2020-05-02T03:39:38.612Z"}
+{"level":"info","message":"Server started on port 8000","timestamp":"2020-05-02T03:40:21.394Z"}
+{"message":"/login","level":"info","timestamp":"2020-05-02T03:40:26.954Z"}
+{"message":"ReferenceError","level":"error","timestamp":"2020-05-02T03:40:27.018Z"}
+{"level":"info","message":"Server started on port 8000","timestamp":"2020-05-02T03:41:43.899Z"}
+{"message":"ReferenceError","level":"error","timestamp":"2020-05-02T03:41:48.150Z"}
+{"level":"info","message":"Server started on port 8000","timestamp":"2020-05-02T03:42:21.923Z"}
+{"level":"info","message":"Server started on port 8000","timestamp":"2020-05-02T03:46:38.409Z"}
+{"level":"info","message":"Server started on port 8000","timestamp":"2020-05-02T03:47:54.362Z"}
+{"message":"/getPosts/4","level":"info","timestamp":"2020-05-02T03:47:57.981Z"}
+{"message":"TypeError","level":"error","timestamp":"2020-05-02T03:47:58.037Z"}
+{"message":"/getPosts/4","level":"info","timestamp":"2020-05-02T03:48:00.587Z"}
+{"message":"TypeError","level":"error","timestamp":"2020-05-02T03:48:00.597Z"}
+{"message":"/getPosts/3","level":"info","timestamp":"2020-05-02T03:48:30.995Z"}
+{"message":"TypeError","level":"error","timestamp":"2020-05-02T03:48:31.005Z"}
+{"level":"info","message":"Server started on port 8000","timestamp":"2020-05-02T03:49:00.007Z"}
+{"message":"/getPosts/4","level":"info","timestamp":"2020-05-02T03:49:05.598Z"}
+{"message":"TypeError","level":"error","timestamp":"2020-05-02T03:49:05.653Z"}
+{"message":"/getPosts/sree","level":"info","timestamp":"2020-05-02T03:53:07.620Z"}
+{"level":"info","message":"Server started on port 8000","timestamp":"2020-05-02T03:56:47.122Z"}
+{"message":"/getPosts/sree","level":"info","timestamp":"2020-05-02T03:56:51.630Z"}
+{"message":"Posts of sree","level":"info","timestamp":"2020-05-02T03:56:51.697Z"}
+{"message":"/getPosts/sre","level":"info","timestamp":"2020-05-02T04:03:58.854Z"}
+{"message":"TypeError","level":"error","timestamp":"2020-05-02T04:03:58.902Z"}
+{"level":"info","message":"Server started on port 8000","timestamp":"2020-05-02T04:04:17.185Z"}
+{"message":"/getPosts/sre","level":"info","timestamp":"2020-05-02T04:04:20.829Z"}
+{"message":"TypeError","level":"error","timestamp":"2020-05-02T04:04:20.874Z"}
+{"message":"/getPosts/sre","level":"info","timestamp":"2020-05-02T04:04:29.312Z"}
+{"message":"TypeError","level":"error","timestamp":"2020-05-02T04:04:29.316Z"}
+{"level":"info","message":"Server started on port 8000","timestamp":"2020-05-02T04:05:04.019Z"}
+{"message":"/getPosts/sree","level":"info","timestamp":"2020-05-02T04:05:34.240Z"}
+{"message":"Posts of sree","level":"info","timestamp":"2020-05-02T04:05:34.308Z"}
+{"message":"/getPosts/sree","level":"info","timestamp":"2020-05-02T04:05:40.089Z"}
+{"message":"Posts of sree","level":"info","timestamp":"2020-05-02T04:05:40.105Z"}
+{"level":"info","message":"Server started on port 8000","timestamp":"2020-05-02T05:23:01.551Z"}
+{"message":"/getRequestList","level":"info","timestamp":"2020-05-02T05:23:07.335Z"}
+{"level":"info","message":"Server started on port 8000","timestamp":"2020-05-02T05:26:42.268Z"}
+{"message":"/login","level":"info","timestamp":"2020-05-02T05:28:00.494Z"}
+{"message":"/getrequestlist","level":"info","timestamp":"2020-05-02T05:28:02.845Z"}
+{"message":"/getrequestlist","level":"info","timestamp":"2020-05-02T05:28:06.520Z"}
+{"message":"/getrequestlist","level":"info","timestamp":"2020-05-02T05:28:47.149Z"}
+{"message":"/getrequestlist","level":"info","timestamp":"2020-05-02T05:28:47.158Z"}
+{"message":"/acceptrequest","level":"info","timestamp":"2020-05-02T05:28:52.390Z"}
+{"message":"Admin accepted request of gita","level":"info","timestamp":"2020-05-02T05:28:52.468Z"}
+{"message":"/getrequestlist","level":"info","timestamp":"2020-05-02T05:28:52.480Z"}
+{"level":"info","message":"Server started on port 8000","timestamp":"2020-05-02T05:34:59.509Z"}
+{"message":"/getrequestlist","level":"info","timestamp":"2020-05-02T05:35:38.197Z"}
+{"message":"Request list gita","level":"info","timestamp":"2020-05-02T05:35:38.277Z"}
+{"message":"/getrequestlist","level":"info","timestamp":"2020-05-02T05:35:38.283Z"}
+{"message":"Request list gita","level":"info","timestamp":"2020-05-02T05:35:38.287Z"}
+{"message":"/acceptrequest","level":"info","timestamp":"2020-05-02T05:35:40.949Z"}
+{"message":"Admin accepted request of gita","level":"info","timestamp":"2020-05-02T05:35:41.187Z"}
+{"message":"/getrequestlist","level":"info","timestamp":"2020-05-02T05:35:41.202Z"}
+{"message":"Request list ","level":"info","timestamp":"2020-05-02T05:35:41.223Z"}
+{"message":"/getuserlist","level":"info","timestamp":"2020-05-02T05:35:44.399Z"}
+{"message":"User List admin,harika,sree,ram,ravi,adm,a,b,c,d,e,g,h,mohitha,westagile,prad,Priyanka,harika65,gayatri,charitha,srija,gita","level":"info","timestamp":"2020-05-02T05:35:44.404Z"}
+{"level":"info","message":"Server started on port 8000","timestamp":"2020-05-02T05:39:35.675Z"}
+{"message":"/login","level":"info","timestamp":"2020-05-02T05:39:46.892Z"}
+{"message":"/getfollowrequest/gita","level":"info","timestamp":"2020-05-02T05:39:48.719Z"}
+{"message":"/getPosts/gita","level":"info","timestamp":"2020-05-02T05:39:52.875Z"}
+{"message":"Posts of gita","level":"info","timestamp":"2020-05-02T05:39:52.902Z"}
+{"message":"/getPosts/gita","level":"info","timestamp":"2020-05-02T05:39:52.917Z"}
+{"message":"Posts of gita","level":"info","timestamp":"2020-05-02T05:39:52.935Z"}
+{"message":"/fetchfollowers/gita","level":"info","timestamp":"2020-05-02T05:39:53.048Z"}
+{"message":"/fetchfollowers/gita","level":"info","timestamp":"2020-05-02T05:39:55.352Z"}
+{"message":"/fetchfollowers/a","level":"info","timestamp":"2020-05-02T05:39:59.147Z"}
+{"message":"/getfollowrequest/a","level":"info","timestamp":"2020-05-02T05:39:59.323Z"}
+{"message":"/follow","level":"info","timestamp":"2020-05-02T05:40:00.928Z"}
+{"message":"TypeError","level":"error","timestamp":"2020-05-02T05:40:01.123Z"}
+{"message":"/getfollowrequest/a","level":"info","timestamp":"2020-05-02T05:40:01.152Z"}
+{"message":"/fetchfollowers/a","level":"info","timestamp":"2020-05-02T05:40:01.227Z"}
+{"message":"/login","level":"info","timestamp":"2020-05-02T05:40:10.547Z"}
+{"message":"/getfollowrequest/a","level":"info","timestamp":"2020-05-02T05:40:12.135Z"}
+{"message":"/getfollowrequest/a","level":"info","timestamp":"2020-05-02T05:40:15.452Z"}
+{"message":"/getfollowrequest/a","level":"info","timestamp":"2020-05-02T05:40:15.488Z"}
+{"message":"/acceptfollowrequest","level":"info","timestamp":"2020-05-02T05:40:20.995Z"}
+{"message":"a accepted follow request of gita","level":"info","timestamp":"2020-05-02T05:40:21.181Z"}
+{"message":"/getfollowrequest/a","level":"info","timestamp":"2020-05-02T05:40:21.192Z"}
+{"level":"info","message":"Server started on port 8000","timestamp":"2020-05-02T05:44:40.143Z"}
+{"message":"/login","level":"info","timestamp":"2020-05-02T05:44:51.030Z"}
+{"message":"/getfollowrequest/gita","level":"info","timestamp":"2020-05-02T05:44:52.931Z"}
+{"message":"/getPosts/gita","level":"info","timestamp":"2020-05-02T05:44:55.719Z"}
+{"message":"Posts of gita","level":"info","timestamp":"2020-05-02T05:44:55.752Z"}
+{"message":"/getPosts/gita","level":"info","timestamp":"2020-05-02T05:44:55.760Z"}
+{"message":"Posts of gita","level":"info","timestamp":"2020-05-02T05:44:55.782Z"}
+{"message":"/fetchfollowers/gita","level":"info","timestamp":"2020-05-02T05:44:55.862Z"}
+{"message":"/timeline/gita","level":"info","timestamp":"2020-05-02T05:45:11.762Z"}
+{"message":"/addPost","level":"info","timestamp":"2020-05-02T05:45:29.567Z"}
+{"message":"gita added undefined","level":"info","timestamp":"2020-05-02T05:45:29.633Z"}
+{"message":"/getPosts/gita","level":"info","timestamp":"2020-05-02T05:45:35.191Z"}
+{"message":"/fetchfollowers/gita","level":"info","timestamp":"2020-05-02T05:45:35.200Z"}
+{"message":"TypeError","level":"error","timestamp":"2020-05-02T05:45:35.226Z"}
+{"message":"/getPosts/gita","level":"info","timestamp":"2020-05-02T05:45:35.228Z"}
+{"message":"Posts of gita","level":"info","timestamp":"2020-05-02T05:45:35.278Z"}
+{"message":"/fetchfollowers/gita","level":"info","timestamp":"2020-05-02T05:45:35.356Z"}
+{"message":"/timeline/gita","level":"info","timestamp":"2020-05-02T05:46:35.995Z"}
+{"message":"/addPost","level":"info","timestamp":"2020-05-02T05:46:48.913Z"}
+{"message":"gita added undefined","level":"info","timestamp":"2020-05-02T05:46:48.956Z"}
+{"level":"info","message":"Server started on port 8000","timestamp":"2020-05-02T05:47:12.496Z"}
+{"message":"/addPost","level":"info","timestamp":"2020-05-02T05:47:30.168Z"}
+{"message":"gita added a post","level":"info","timestamp":"2020-05-02T05:47:30.448Z"}
+{"message":"/getPosts/gita","level":"info","timestamp":"2020-05-02T05:47:43.107Z"}
+{"message":"/fetchfollowers/gita","level":"info","timestamp":"2020-05-02T05:47:43.122Z"}
+{"message":"TypeError","level":"error","timestamp":"2020-05-02T05:47:43.178Z"}
+{"message":"/getPosts/gita","level":"info","timestamp":"2020-05-02T05:47:43.201Z"}
+{"message":"Posts of gita","level":"info","timestamp":"2020-05-02T05:47:43.280Z"}
+{"message":"/fetchfollowers/gita","level":"info","timestamp":"2020-05-02T05:47:43.442Z"}
+{"level":"info","message":"Server started on port 8000","timestamp":"2020-05-02T05:55:28.143Z"}
+{"message":"/login","level":"info","timestamp":"2020-05-02T05:55:40.961Z"}
+{"message":"/login","level":"info","timestamp":"2020-05-02T05:55:45.806Z"}
+{"message":"/getfollowrequest/gita","level":"info","timestamp":"2020-05-02T05:55:47.362Z"}
+{"message":"/fetchfollowers/gita","level":"info","timestamp":"2020-05-02T05:55:51.535Z"}
+{"message":"Followers of gita are a","level":"info","timestamp":"2020-05-02T05:55:51.544Z"}
+{"message":"/fetchfollowers/c","level":"info","timestamp":"2020-05-02T05:55:55.849Z"}
+{"message":"Followers of c are b,charitha","level":"info","timestamp":"2020-05-02T05:55:55.863Z"}
+{"message":"/getfollowrequest/c","level":"info","timestamp":"2020-05-02T05:55:55.907Z"}
+{"message":"/follow","level":"info","timestamp":"2020-05-02T05:55:57.493Z"}
+{"message":"TypeError","level":"error","timestamp":"2020-05-02T05:55:57.744Z"}
+{"message":"/getfollowrequest/c","level":"info","timestamp":"2020-05-02T05:55:57.758Z"}
+{"message":"/fetchfollowers/c","level":"info","timestamp":"2020-05-02T05:55:57.841Z"}
+{"message":"Followers of c are b,charitha","level":"info","timestamp":"2020-05-02T05:55:57.875Z"}
+{"message":"/getPosts/gita","level":"info","timestamp":"2020-05-02T05:56:22.619Z"}
+{"message":"/fetchfollowers/gita","level":"info","timestamp":"2020-05-02T05:56:22.628Z"}
+{"message":"TypeError","level":"error","timestamp":"2020-05-02T05:56:22.659Z"}
+{"message":"/getPosts/gita","level":"info","timestamp":"2020-05-02T05:56:22.673Z"}
+{"message":"Followers of gita are a","level":"info","timestamp":"2020-05-02T05:56:22.677Z"}
+{"message":"/getfollowrequest/c","level":"info","timestamp":"2020-05-02T05:56:22.715Z"}
+{"message":"TypeError","level":"error","timestamp":"2020-05-02T05:56:22.734Z"}
+{"message":"/getPosts/gita","level":"info","timestamp":"2020-05-02T05:56:27.990Z"}
+{"message":"/getrequestlist","level":"info","timestamp":"2020-05-02T05:56:28.004Z"}
+{"message":"Request list ","level":"info","timestamp":"2020-05-02T05:56:28.012Z"}
+{"message":"TypeError","level":"error","timestamp":"2020-05-02T05:56:28.015Z"}
+{"message":"/getPosts/gita","level":"info","timestamp":"2020-05-02T05:56:28.018Z"}
+{"message":"Posts of gita","level":"info","timestamp":"2020-05-02T05:56:28.072Z"}
+{"message":"/fetchfollowers/gita","level":"info","timestamp":"2020-05-02T05:56:28.539Z"}
+{"message":"Followers of gita are a","level":"info","timestamp":"2020-05-02T05:56:28.566Z"}
+{"level":"info","message":"Server started on port 8000","timestamp":"2020-05-02T05:59:43.731Z"}
+{"message":"/login","level":"info","timestamp":"2020-05-02T05:59:54.125Z"}
+{"message":"/getfollowrequest/gita","level":"info","timestamp":"2020-05-02T05:59:55.859Z"}
+{"message":"/getPosts/gita","level":"info","timestamp":"2020-05-02T05:59:58.677Z"}
+{"message":"Posts of gita","level":"info","timestamp":"2020-05-02T05:59:58.759Z"}
+{"message":"/getPosts/gita","level":"info","timestamp":"2020-05-02T05:59:58.764Z"}
+{"message":"Posts of gita","level":"info","timestamp":"2020-05-02T05:59:58.809Z"}
+{"message":"/fetchfollowers/gita","level":"info","timestamp":"2020-05-02T05:59:58.941Z"}
+{"message":"Followers of gita are ","level":"info","timestamp":"2020-05-02T05:59:58.956Z"}
+{"message":" gita is following a","level":"info","timestamp":"2020-05-02T05:59:58.959Z"}
+{"message":"/fetchfollowers/gita","level":"info","timestamp":"2020-05-02T06:00:29.470Z"}
+{"message":"Followers of gita are ","level":"info","timestamp":"2020-05-02T06:00:29.497Z"}
+{"message":" gita is following a","level":"info","timestamp":"2020-05-02T06:00:29.499Z"}
+{"message":"/fetchfollowers/d","level":"info","timestamp":"2020-05-02T06:00:33.213Z"}
+{"message":"Followers of d are ","level":"info","timestamp":"2020-05-02T06:00:33.226Z"}
+{"message":" d is following ","level":"info","timestamp":"2020-05-02T06:00:33.226Z"}
+{"message":"/getfollowrequest/d","level":"info","timestamp":"2020-05-02T06:00:33.279Z"}
+{"message":"/follow","level":"info","timestamp":"2020-05-02T06:00:34.654Z"}
+{"message":"TypeError","level":"error","timestamp":"2020-05-02T06:00:34.840Z"}
+{"message":"/getfollowrequest/d","level":"info","timestamp":"2020-05-02T06:00:34.871Z"}
+{"message":"/fetchfollowers/d","level":"info","timestamp":"2020-05-02T06:00:34.921Z"}
+{"message":"Followers of d are ","level":"info","timestamp":"2020-05-02T06:00:34.936Z"}
+{"message":" d is following ","level":"info","timestamp":"2020-05-02T06:00:34.936Z"}
+{"message":"/getPosts/gita","level":"info","timestamp":"2020-05-02T06:01:41.801Z"}
+{"message":"/fetchfollowers/gita","level":"info","timestamp":"2020-05-02T06:01:41.805Z"}
+{"message":"TypeError","level":"error","timestamp":"2020-05-02T06:01:41.836Z"}
+{"message":"Followers of gita are ","level":"info","timestamp":"2020-05-02T06:01:41.848Z"}
+{"message":" gita is following a","level":"info","timestamp":"2020-05-02T06:01:41.848Z"}
+{"message":"/getPosts/gita","level":"info","timestamp":"2020-05-02T06:01:41.852Z"}
+{"message":"Posts of gita","level":"info","timestamp":"2020-05-02T06:01:41.918Z"}
+{"message":"/getfollowrequest/d","level":"info","timestamp":"2020-05-02T06:01:41.949Z"}
+{"message":"/fetchfollowers/gita","level":"info","timestamp":"2020-05-02T06:01:42.105Z"}
+{"message":"Followers of gita are ","level":"info","timestamp":"2020-05-02T06:01:42.128Z"}
+{"message":" gita is following a","level":"info","timestamp":"2020-05-02T06:01:42.128Z"}
+{"message":"/getfollowrequest/d","level":"info","timestamp":"2020-05-02T06:01:42.250Z"}
+{"message":"/fetchfollowers/gita","level":"info","timestamp":"2020-05-02T06:01:43.343Z"}
+{"message":"Followers of gita are ","level":"info","timestamp":"2020-05-02T06:01:43.374Z"}
+{"message":" gita is following a","level":"info","timestamp":"2020-05-02T06:01:43.374Z"}
+{"message":"/fetchfollowers/h","level":"info","timestamp":"2020-05-02T06:01:47.399Z"}
+{"message":"Followers of h are b","level":"info","timestamp":"2020-05-02T06:01:47.422Z"}
+{"message":" h is following ","level":"info","timestamp":"2020-05-02T06:01:47.422Z"}
+{"message":"/getfollowrequest/h","level":"info","timestamp":"2020-05-02T06:01:47.517Z"}
+{"message":"/follow","level":"info","timestamp":"2020-05-02T06:01:48.704Z"}
+{"message":"TypeError","level":"error","timestamp":"2020-05-02T06:01:48.911Z"}
+{"message":"/getfollowrequest/h","level":"info","timestamp":"2020-05-02T06:01:49.013Z"}
+{"message":"/fetchfollowers/h","level":"info","timestamp":"2020-05-02T06:01:49.058Z"}
+{"message":"Followers of h are b","level":"info","timestamp":"2020-05-02T06:01:49.068Z"}
+{"message":" h is following ","level":"info","timestamp":"2020-05-02T06:01:49.068Z"}
+{"message":"/getPosts/gita","level":"info","timestamp":"2020-05-02T06:06:13.470Z"}
+{"message":"/fetchfollowers/gita","level":"info","timestamp":"2020-05-02T06:06:13.474Z"}
+{"message":"Followers of gita are ","level":"info","timestamp":"2020-05-02T06:06:13.510Z"}
+{"message":" gita is following a","level":"info","timestamp":"2020-05-02T06:06:13.510Z"}
+{"message":"Posts of gita","level":"info","timestamp":"2020-05-02T06:06:13.534Z"}
+{"message":"/getPosts/gita","level":"info","timestamp":"2020-05-02T06:06:13.535Z"}
+{"message":"Posts of gita","level":"info","timestamp":"2020-05-02T06:06:13.592Z"}
+{"message":"/getfollowrequest/h","level":"info","timestamp":"2020-05-02T06:06:13.655Z"}
+{"level":"info","message":"Server started on port 8000","timestamp":"2020-05-02T06:10:08.549Z"}
+{"message":"/addLike","level":"info","timestamp":"2020-05-02T06:10:12.317Z"}
+{"message":"27 is liked","level":"info","timestamp":"2020-05-02T06:10:12.583Z"}
+{"message":"/getPosts/gita","level":"info","timestamp":"2020-05-02T06:10:12.629Z"}
+{"message":"Posts of gita","level":"info","timestamp":"2020-05-02T06:10:12.693Z"}
+{"message":"/addLike","level":"info","timestamp":"2020-05-02T06:10:55.758Z"}
+{"message":"28 is liked","level":"info","timestamp":"2020-05-02T06:10:55.803Z"}
+{"message":"/getPosts/gita","level":"info","timestamp":"2020-05-02T06:10:55.818Z"}
+{"message":"Posts of gita","level":"info","timestamp":"2020-05-02T06:10:55.872Z"}
+{"level":"info","message":"Server started on port 8000","timestamp":"2020-05-02T06:11:05.097Z"}
+{"message":"/addLike","level":"info","timestamp":"2020-05-02T06:11:11.154Z"}
+{"message":"29 is liked","level":"info","timestamp":"2020-05-02T06:11:11.389Z"}
+{"message":"/getPosts/gita","level":"info","timestamp":"2020-05-02T06:11:11.410Z"}
+{"message":"Posts of gita","level":"info","timestamp":"2020-05-02T06:11:11.451Z"}
+{"message":"/addLike","level":"info","timestamp":"2020-05-02T06:11:44.783Z"}
+{"message":"30 is liked","level":"info","timestamp":"2020-05-02T06:11:44.953Z"}
+{"message":"/getPosts/gita","level":"info","timestamp":"2020-05-02T06:11:44.962Z"}
+{"message":"Posts of gita","level":"info","timestamp":"2020-05-02T06:11:45.016Z"}
+{"level":"info","message":"Server started on port 8000","timestamp":"2020-05-02T06:11:59.541Z"}
+{"message":"/addLike","level":"info","timestamp":"2020-05-02T06:12:03.118Z"}
+{"message":"27 post of 33 is disliked","level":"info","timestamp":"2020-05-02T06:12:03.262Z"}
+{"message":"/getPosts/gita","level":"info","timestamp":"2020-05-02T06:12:03.312Z"}
+{"message":"Posts of gita","level":"info","timestamp":"2020-05-02T06:12:03.374Z"}
+{"level":"info","message":"Server started on port 8000","timestamp":"2020-05-02T12:53:45.195Z"}
+{"message":"/login","level":"info","timestamp":"2020-05-02T12:54:25.075Z"}
+{"message":"a logged in","level":"info","timestamp":"2020-05-02T12:54:25.464Z"}
+{"message":"/getfollowrequest/a","level":"info","timestamp":"2020-05-02T12:54:28.277Z"}
+{"message":"/timeline/a","level":"info","timestamp":"2020-05-02T12:54:31.500Z"}
+{"message":" Timeline of a contain the posts of users whom a is following","level":"info","timestamp":"2020-05-02T12:54:31.546Z"}
+{"message":"/getPosts/a","level":"info","timestamp":"2020-05-02T12:54:34.970Z"}
+{"message":"Posts of a","level":"info","timestamp":"2020-05-02T12:54:35.005Z"}
+{"message":"/getPosts/a","level":"info","timestamp":"2020-05-02T12:54:35.008Z"}
+{"message":"Posts of a","level":"info","timestamp":"2020-05-02T12:54:35.063Z"}
+{"message":"/fetchfollowers/a","level":"info","timestamp":"2020-05-02T12:54:35.391Z"}
+{"message":"Followers of a are prad,g,harika65,gita","level":"info","timestamp":"2020-05-02T12:54:35.443Z"}
+{"message":" a is following sree,b","level":"info","timestamp":"2020-05-02T12:54:35.443Z"}
+{"message":"/timeline/a","level":"info","timestamp":"2020-05-02T12:54:42.849Z"}
+{"message":" Timeline of a contain the posts of users whom a is following","level":"info","timestamp":"2020-05-02T12:54:42.862Z"}
+{"level":"info","message":"Server started on port 8000","timestamp":"2020-05-02T12:55:32.286Z"}
+{"message":"/timeline/a","level":"info","timestamp":"2020-05-02T12:55:39.608Z"}
+{"message":"/getrequestlist","level":"info","timestamp":"2020-05-02T12:55:39.614Z"}
+{"message":"Request list ","level":"info","timestamp":"2020-05-02T12:55:39.941Z"}
+{"message":" Timeline of a contain the posts of users whom a is following","level":"info","timestamp":"2020-05-02T12:55:39.951Z"}
+{"level":"info","message":"Server started on port 8000","timestamp":"2020-05-02T12:55:52.598Z"}
+{"message":"/login","level":"info","timestamp":"2020-05-02T12:56:09.272Z"}
+{"message":"a logged in","level":"info","timestamp":"2020-05-02T12:56:09.395Z"}
+{"message":"/getfollowrequest/a","level":"info","timestamp":"2020-05-02T12:56:11.636Z"}
+{"message":"/timeline/a","level":"info","timestamp":"2020-05-02T12:56:15.255Z"}
+{"message":" Timeline of a contain the posts of users whom a is following","level":"info","timestamp":"2020-05-02T12:56:15.271Z"}
+{"message":"/getPosts/a","level":"info","timestamp":"2020-05-02T12:56:40.955Z"}
+{"message":"Posts of a","level":"info","timestamp":"2020-05-02T12:56:40.995Z"}
+{"message":"/getPosts/a","level":"info","timestamp":"2020-05-02T12:56:41.009Z"}
+{"message":"Posts of a","level":"info","timestamp":"2020-05-02T12:56:41.056Z"}
+{"message":"/fetchfollowers/a","level":"info","timestamp":"2020-05-02T12:56:41.208Z"}
+{"message":"Followers of a are prad,g,harika65,gita","level":"info","timestamp":"2020-05-02T12:56:41.237Z"}
+{"message":" a is following sree,b","level":"info","timestamp":"2020-05-02T12:56:41.237Z"}
+{"level":"info","message":"Server started on port 8000","timestamp":"2020-05-02T12:57:38.660Z"}
+{"message":"/login","level":"info","timestamp":"2020-05-02T12:57:51.211Z"}
+{"message":"a logged in","level":"info","timestamp":"2020-05-02T12:57:51.318Z"}
+{"message":"/getfollowrequest/a","level":"info","timestamp":"2020-05-02T12:57:53.279Z"}
+{"message":"/timeline/a","level":"info","timestamp":"2020-05-02T12:57:56.080Z"}
+{"message":" Timeline of a contain the posts of users whom a is following","level":"info","timestamp":"2020-05-02T12:57:58.143Z"}
+{"level":"info","message":"Server started on port 8000","timestamp":"2020-05-02T13:07:09.638Z"}
+{"message":"/getPosts/a","level":"info","timestamp":"2020-05-02T13:07:17.747Z"}
+{"message":"Posts of a","level":"info","timestamp":"2020-05-02T13:07:17.827Z"}
+{"message":"/getPosts/a","level":"info","timestamp":"2020-05-02T13:07:17.829Z"}
+{"message":"Posts of a","level":"info","timestamp":"2020-05-02T13:07:17.862Z"}
+{"message":"/fetchfollowers/a","level":"info","timestamp":"2020-05-02T13:07:17.918Z"}
+{"message":"Followers of a are prad,g,harika65","level":"info","timestamp":"2020-05-02T13:07:17.953Z"}
+{"message":" a is following ","level":"info","timestamp":"2020-05-02T13:07:17.954Z"}
+{"message":"/fetchfollowers/a","level":"info","timestamp":"2020-05-02T13:07:30.259Z"}
+{"message":"Followers of a are prad,g,harika65,gita","level":"info","timestamp":"2020-05-02T13:07:30.311Z"}
+{"message":" a is following ","level":"info","timestamp":"2020-05-02T13:07:30.311Z"}
+{"message":"/fetchfollowers/b","level":"info","timestamp":"2020-05-02T13:07:34.418Z"}
+{"message":"Followers of b are c,sree,a,gayatri","level":"info","timestamp":"2020-05-02T13:07:34.437Z"}
+{"message":" b is following ","level":"info","timestamp":"2020-05-02T13:07:34.437Z"}
+{"message":"/getfollowrequest/b","level":"info","timestamp":"2020-05-02T13:07:34.475Z"}
+{"level":"info","message":"Server started on port 8000","timestamp":"2020-05-02T13:08:26.352Z"}
+{"message":"/getPosts/a","level":"info","timestamp":"2020-05-02T13:08:32.221Z"}
+{"message":"/fetchfollowers/a","level":"info","timestamp":"2020-05-02T13:08:32.227Z"}
+{"message":"Followers of a are prad,g,harika65,gita","level":"info","timestamp":"2020-05-02T13:08:32.359Z"}
+{"message":" a is following ","level":"info","timestamp":"2020-05-02T13:08:32.359Z"}
+{"message":"TypeError","level":"error","timestamp":"2020-05-02T13:08:32.374Z"}
+{"message":"/getPosts/a","level":"info","timestamp":"2020-05-02T13:08:32.386Z"}
+{"message":"/getfollowrequest/b","level":"info","timestamp":"2020-05-02T13:08:32.451Z"}
+{"message":"Posts of a","level":"info","timestamp":"2020-05-02T13:08:32.460Z"}
+{"message":"/fetchfollowers/a","level":"info","timestamp":"2020-05-02T13:08:32.643Z"}
+{"message":"Followers of a are prad,g,harika65,gita","level":"info","timestamp":"2020-05-02T13:08:32.670Z"}
+{"message":" a is following ","level":"info","timestamp":"2020-05-02T13:08:32.670Z"}
+{"message":"/getfollowrequest/b","level":"info","timestamp":"2020-05-02T13:08:32.729Z"}
+{"level":"info","message":"Server started on port 8000","timestamp":"2020-05-02T13:09:30.829Z"}
+{"message":"/fetchfollowers/a","level":"info","timestamp":"2020-05-02T13:09:45.741Z"}
+{"message":"Followers of a are prad,g,harika65,gita","level":"info","timestamp":"2020-05-02T13:09:45.883Z"}
+{"message":" a is following ","level":"info","timestamp":"2020-05-02T13:09:45.884Z"}
+{"message":"/getPosts/a","level":"info","timestamp":"2020-05-02T13:09:47.199Z"}
+{"message":"/fetchfollowers/a","level":"info","timestamp":"2020-05-02T13:09:47.202Z"}
+{"message":"Followers of a are prad,g,harika65,gita","level":"info","timestamp":"2020-05-02T13:09:47.257Z"}
+{"message":" a is following ","level":"info","timestamp":"2020-05-02T13:09:47.257Z"}
+{"message":"Posts of a","level":"info","timestamp":"2020-05-02T13:09:47.292Z"}
+{"message":"/getPosts/a","level":"info","timestamp":"2020-05-02T13:09:47.295Z"}
+{"message":"Posts of a","level":"info","timestamp":"2020-05-02T13:09:47.345Z"}
+{"message":"/getfollowrequest/b","level":"info","timestamp":"2020-05-02T13:09:47.397Z"}
+{"level":"info","message":"Server started on port 8000","timestamp":"2020-05-02T13:10:21.296Z"}
+{"message":"/fetchfollowers/a","level":"info","timestamp":"2020-05-02T13:10:25.943Z"}
+{"message":"Followers of a are prad,g,harika65,gita","level":"info","timestamp":"2020-05-02T13:10:26.094Z"}
+{"message":" a is following sree,b","level":"info","timestamp":"2020-05-02T13:10:26.094Z"}
+{"message":"/getPosts/a","level":"info","timestamp":"2020-05-02T13:10:27.289Z"}
+{"message":"/fetchfollowers/a","level":"info","timestamp":"2020-05-02T13:10:27.297Z"}
+{"message":"TypeError","level":"error","timestamp":"2020-05-02T13:10:27.361Z"}
+{"message":"/getPosts/a","level":"info","timestamp":"2020-05-02T13:10:27.366Z"}
+{"message":"Followers of a are prad,g,harika65,gita","level":"info","timestamp":"2020-05-02T13:10:27.380Z"}
+{"message":" a is following sree,b","level":"info","timestamp":"2020-05-02T13:10:27.380Z"}
+{"message":"Posts of a","level":"info","timestamp":"2020-05-02T13:10:27.399Z"}
+{"message":"/getfollowrequest/b","level":"info","timestamp":"2020-05-02T13:10:27.424Z"}
+{"message":"/fetchfollowers/a","level":"info","timestamp":"2020-05-02T13:10:27.508Z"}
+{"message":"Followers of a are prad,g,harika65,gita","level":"info","timestamp":"2020-05-02T13:10:27.534Z"}
+{"message":" a is following sree,b","level":"info","timestamp":"2020-05-02T13:10:27.534Z"}
+{"message":"/getfollowrequest/b","level":"info","timestamp":"2020-05-02T13:10:27.593Z"}
